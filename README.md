@@ -1,2 +1,2 @@
 # playgo
-Lets play with go!!
+Lets play with go!
