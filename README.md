@@ -6,6 +6,7 @@ Rodamos nosso primeiro programa Go, tivemos contato com uma biblioteca da lingua
 Achei bem interessante a forma como os packages funcionam, para fixar criei um pequeno gráfico com a ideia basica da coisa.
 Inclusive algumas idéias começaram a vir sobre formas de práticar mais durante o curso, talvez criar um pacote com uma entidade Logger ou então estudar e criar teste unitários para os dias de estudo que passaremos por aqui.
 
+```plaintext
 +-------------------------+
 |         mathutils       |
 +-------------------------+
