@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e3a36db8-7ed3-491d-89cf-a0d04ed0d415" alt="Descrição da Imagem">
+</p>
+
+
 # Go Essentials - LinuxTips
 Neste Repo vou colocar minha experiência com o curso Go Essentials da Linuxtips serão três dias de conteúdo e m projeto final que será submetido ao fim do curso, a idéia é documentar brevemente sobre os aprendizados de cada dia.
 
