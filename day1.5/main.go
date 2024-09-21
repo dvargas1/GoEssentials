@@ -5,19 +5,16 @@ import "fmt"
 // const prefixoOlaPortugues = "Olá, "
 
 func Ola(nome string, lingua string) string{
-	prefixoOla := "veja so"
+	prefixoOla := "Olá, "
 	if nome == "" {
 		nome = "mundo!"
 	}
-	if lingua != "ingles" && lingua != "espanhol" || lingua == "" {
-		prefixoOla = "Olá, "
-	}
-	if lingua == "espanhol" {
-		prefixoOla = "Hola, "
-	}
-	if lingua == "ingles" {
-		prefixoOla = "Hi, "
-	}
+	switch lingua{
+		case "espanhol":
+			prefixoOla = "Hola, "
+		case "ingles":
+			prefixoOla = "Hi, "
+		}
 	return prefixoOla + nome
 }
 
