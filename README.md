@@ -32,3 +32,11 @@ Inclusive algumas idéias começaram a vir sobre formas de práticar mais durant
             |     fmt.Println(result)          |
             | }                                |
             +----------------------------------+
+```
+
+## Day 2
+No segundo dia do curso Go Essentials, mergulhamos no desenvolvimento de uma poderosa calculadora e aprofundamos nosso entendimento sobre funções de controle em Go. Aprendemos a utilizar condicionais, como if/else, e loops, especialmente o for, que são fundamentais para controlar o fluxo de execução dos programas. Também introduzimos o comando switch, que se mostrou uma alternativa clara e concisa para lidar com múltiplas condições.
+
+No exercício de criar a calculadora, fui um pouco além e desenvolvi uma estrutura de package para organizar as funções.
+
+Estou aproveitando a integração nativa da linguagem para aprofundar meus conhecimentos sobre testes. Decidi me desafiar a implementar testes sempre que possível em diferentes partes do código, pois acredito que os testes são essenciais para um desenvolvimento seguro e confiável.
